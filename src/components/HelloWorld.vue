@@ -1,10 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      Also see
-      <a href="https://soundcloud.com/user-898803153" target="_blank" rel="noopener">soundcloud</a>.
-    </p>
+    <!-- <p>
+      <a href="https://soundcloud.com/user-898803153" target="_blank" rel="noopener">soundcloud with everything</a>.
+    </p> -->
     <h3>Songs</h3>
     
     <div>
